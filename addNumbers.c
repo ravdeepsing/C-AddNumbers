@@ -14,7 +14,7 @@ int main()
 		printf("Enter a number you would like to be added to the sum : ");//And ask for another number
 	}
 
-	printf("The sum of the numbers you entered is %d\n",sum);//After termination of the while loop (EOF was detected), print out the cumulative sum
+	printf("The sum of the numbers you have entered is %d\n",sum);//After termination of the while loop (EOF was detected), print out the cumulative sum
 
 
 
